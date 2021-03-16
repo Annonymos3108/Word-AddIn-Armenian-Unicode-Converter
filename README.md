@@ -1,4 +1,4 @@
-# Armenian Unicode Converter Word AddIn
+# Armenian Unicode Converter Word AddIn (VSTO)
 
 You can read this in [Русский](./README_RU.md), [Հայերեն](./README_ARM.md)
 
