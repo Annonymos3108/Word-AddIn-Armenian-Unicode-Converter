@@ -1,6 +1,6 @@
 # Armenian Unicode Converter Word AddIn
 
-Դու՝ կարող եք կարդալ այս էջը [in English](./README.md), [на Русском](./README_RU.md)
+Դուք կարող եք կարդալ այս էջը [in English](./README.md), [на Русском](./README_RU.md)
 
 </br>
 
